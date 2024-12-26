@@ -1,0 +1,17 @@
+User Side
+-------------------
+To access the user side please use the below url
+http://localhost:8000/login
+Username:testuser@testmail.com
+Password:123456
+
+Department side
+-------------------
+To access the department head interface please use the url:
+
+localhost:8000/login
+Username:admin@testmail.com
+Password:123456
+
+To create new user or department head please use the url
+localhost:8000/register
